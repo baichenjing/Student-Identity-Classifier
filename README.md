@@ -12,6 +12,8 @@ Train a LinearClassifier model or a DNNClassifier model to predict whether a cer
   * year_range: ime range from the first to the last publication. 
     * *year_range = year of latest publication - year of earlist publication + 1*
 
+*This project is based on data aquired from [Aminer](https://www.aminer.cn), a platform providing comprehensive search and mining services for researcher social networks.*
+
 ## Usage
 
 ```
